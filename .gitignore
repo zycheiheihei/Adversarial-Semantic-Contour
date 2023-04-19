@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Custom
+coco_person/
+fasc_frcn/
+*.zip
